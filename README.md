@@ -1,6 +1,17 @@
 ### Hi there 👋
 
 ### <a href="https://tapashkumar99.github.io/Portfolio/" />Myself Tapash Kumar
+--------------------------------------
+
+- 🔭 I’m currently working on Full Stack Web Development
+- 🌱 I’m currently learning MERN Stack
+- ---------------------------------------------
+<a href="https://www.linkedin.com/in/tapash-kumar-mahato-875148238/">![image](https://user-images.githubusercontent.com/104021558/205087519-a0348d6e-f14d-4574-b2c9-ff81da179472.png)
+</a>
+<a href="https://www.instagram.com/tapaskumar929/">![image](https://user-images.githubusercontent.com/104021558/205088444-c7dbe3d6-ff5f-4e69-beee-32851a83f4cf.png)
+</a>
+
+
 
 <!--
 **Tapashkumar99/Tapashkumar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working on Full Stack Web Development
-- 🌱 I’m currently learning React and Node
