@@ -1,10 +1,15 @@
 ### Hi there 👋
 
 ### <a href="https://tapashkumar99.github.io/Portfolio/" />Myself Tapash Kumar
---------------------------------------
+___________________________________________________
 
 - 🔭 I’m currently working on Full Stack Web Development
 - 🌱 I’m currently learning MERN Stack
+- 🤔 I’m looking for help with with career guidance.
+- 💬 Ask me about Full Stack Development or any tech related stuff.
+- 📫 How to reach me:<a href="https://www.linkedin.com/in/tapash-kumar-mahato-875148238/"> Linkedin - @TapashKumar</a>
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I would love to work with same minded people like me as a team.
 - ---------------------------------------------
 <a href="https://www.linkedin.com/in/tapash-kumar-mahato-875148238/">![image](https://user-images.githubusercontent.com/104021558/205087519-a0348d6e-f14d-4574-b2c9-ff81da179472.png)
 </a>
